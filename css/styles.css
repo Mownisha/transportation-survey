@@ -1,0 +1,28 @@
+#work-responses, #fun-responses {
+  display: none;
+}
+
+.form-group {
+  color: purple;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+body{
+  background-color: lightgreen;
+}
+
+#work-responses, #fun-responses {
+  color: purple;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.jumbotron {
+  color: orange;
+  text-align: center;
+  font-family: cursive;
+  font-style: italic;
+}
